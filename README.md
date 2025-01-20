@@ -1,1 +1,1 @@
-https://my-blog-backend-01.vercel.app/
+https://my-blog-backend-02.vercel.app/
